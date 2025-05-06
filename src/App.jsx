@@ -7,7 +7,7 @@ import Navbar from "./Components/Navbar";
 import Loader from "./Components/Loader";
 import Projects from "./Components/Projects";
 import Blog from "./Components/Blog";
-import CvPage from "./Components/CVpage";
+import CVpage from "./Components/CVpage"
 import BlogPostReact from "./Components/BlogPostReact";
 import './App.css';
 
@@ -57,7 +57,7 @@ function App() {
               </>
             }
           />
-          <Route path="/cv" element={<CvPage />} />
+          <Route path="/cv" element={<CVpage />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/blog/getting-started-with-react" element={<BlogPostReact />} />
         </Routes>
