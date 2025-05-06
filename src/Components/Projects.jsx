@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 const Projects = () => {
     const projects = [
-        { title: "E-Commerce Website", desc: "Built with React & Firebase", link: "https://github.com/Pandeyji-kp/Ecommerce-web" },
+        { title: "E-Commerce Website", desc: "Built with React & Firebase", link: "https://ecommerce-web-k7qc.vercel.app" },
         { title: "Quiz App", desc: "Real-time quiz management", link: "https://github.com/Pandeyji-kp/Quiz-App" },
         { title: "Movie App", desc: "Real-time Movie Search", link: "https://movie-app-theta-eight-33.vercel.app" },
         { title: "Admin Panel", desc: "For Control Web-site", link: "https://github.com/Pandeyji-kp/Adminpanel" },
