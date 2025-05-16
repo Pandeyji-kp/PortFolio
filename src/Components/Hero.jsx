@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import profileImg from "../assets/profile.png";
+import profileImg from "../assets/WhatsApp_Image_2025-05-16_at_21.42.20_0179af54-removebg-preview.png";
 
 const Hero = () => {
   return (
@@ -15,10 +15,10 @@ const Hero = () => {
           transition={{ duration: 1 }}
           className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold"
         >
-          Hi, I'm <span className="text-blue-500">Karan Pandey</span>
+          Hi, I'm <span className="text-blue-500">Jameel Ahmed</span>
         </motion.h1>
         <p className="mt-4 text-base sm:text-lg md:text-xl max-w-xl mx-auto md:mx-0">
-          A Back-End Developer focused on building robust, scalable APIs and seamless server-side logic to power modern applications.
+          Cleaned, analyzed, and interpreted large datasets to support business intelligence using Python, Excel, SQL, and Matplotlib
         </p>
         <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
           <a

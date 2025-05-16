@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 const Projects = () => {
     const projects = [
-        { title: "E-Commerce Website", desc: "Built with React & Firebase", link: "https://ecommerce-web-k7qc.vercel.app" },
-        { title: "Quiz App", desc: "Real-time quiz management", link: "https://github.com/Pandeyji-kp/Quiz-App" },
-        { title: "Movie App", desc: "Real-time Movie Search", link: "https://movie-app-theta-eight-33.vercel.app" },
-        { title: "Admin Panel", desc: "For Control Web-site", link: "https://github.com/Pandeyji-kp/Adminpanel" },
+        { title: "Walmart Sales Analysis", desc: "Built with SQL, MySQL Workbench, Python", link: "https://github.com/Jameel-DA/Walmart_SQL_Python" },
+        { title: "Coffee Sales Analysis", desc: "Built with SQL, MySQL Workbench", link: "https://github.com/Jameel-DA/Coffee_Sales_Analysis-SQL" },
+        { title: "Retail Sales Analysis", desc: "Built with SQL, MySQL Workbench, Python", link: "https://github.com/Jameel-DA/Retail_Sales_Analysis-SQL" },
+        { title: "Online Courses Data Analysis", desc: "Built with SQL, MySQL Workbench", link: "https://github.com/Jameel-DA/Online_Courses_Data_Analysis-PowerBI-Dashboard" },
     ];
 
     return (

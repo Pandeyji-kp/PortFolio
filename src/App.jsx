@@ -42,7 +42,7 @@ function App() {
   ) : (
     <Router>
       <ScrollToHash />
-      <div className="bg-white dark:bg-gray-900 text-black dark:text-white min-h-screen">
+      <div className="bg-white dark:bg-gray-700 text-black dark:text-white min-h-screen">
         <Navbar />
         <Routes>
           <Route
