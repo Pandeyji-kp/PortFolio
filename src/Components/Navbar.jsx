@@ -10,7 +10,7 @@ const Navbar = () => {
   const navItems = ['Home', 'About', 'Projects', 'Blog', 'Contact'];
 
   return (
-    <nav className="bg-gray-100 dark:bg-gray-700 text-black dark:text-white sticky top-0 z-50 p-4 shadow">
+    <nav className="bg-gray-100 dark:bg-gray-800 text-black dark:text-white sticky top-0 z-50 p-4 shadow">
       <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-2xl font-bold">MyPortfolio</h1>
 
